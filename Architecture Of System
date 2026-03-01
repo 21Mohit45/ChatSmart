@@ -1,0 +1,25 @@
+          +-------------------+
+          |      SERVER       |
+          |  (TCP Socket)     |
+          +---------+---------+
+                    |
+       -----------------------------
+       |                           |
++-------------+           +-------------+
+|   CLIENT A  |           |   CLIENT B  |
+| (GUI + TCP) |           | (GUI + TCP) |
++-------------+           +-------------+
+
+
+
+🔹 Working Flow:
+
+Server starts and listens on a port.
+
+Clients connect via TCP.
+
+Messages are sent to server.
+
+Server forwards messages to intended client.
+
+Both sender and receiver can view messages.
