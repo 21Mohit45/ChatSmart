@@ -1,0 +1,53 @@
+📌 Chat Smart
+💬 Chat Smart – TCP Based GUI Chat Application
+
+Chat Smart is a desktop chat application developed using TCP Socket Programming for Computer Networks major project.
+It provides real-time messaging with an attractive GUI interface similar to modern messaging apps.
+
+
+Chat Smart is built using the TCP protocol to ensure reliable communication between clients and server.
+The application includes a splash screen, user selection, message bubbles, file transfer, and profile features — all without using any database.
+
+This project demonstrates practical implementation of:
+
+TCP Client-Server Architecture
+
+Socket Programming
+
+GUI Development
+
+Real-Time Communication
+
+File Transfer using TCP
+
+
+
+✨ Features
+
+✔ Real-time messaging using TCP
+✔ Attractive GUI interface
+✔ Splash screen (2 seconds)
+✔ Profile photo (circular display)
+✔ Message bubbles (Sender message in Red)
+✔ Private chat (Click user to view chat)
+✔ File transfer option
+✔ Same system multi-client support
+✔ No database used
+
+
+
+
+
+
+
+🖥 Technologies Used
+
+Python
+
+Socket Programming
+
+TCP Protocol
+
+Tkinter (GUI)
+
+Git & GitHub
