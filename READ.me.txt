@@ -1,0 +1,28 @@
+# Chat Smart 💬
+
+Chat Smart is a TCP-based Chat Application built using Python and Tkinter.
+
+## Features
+- Fullscreen Splash Screen
+- Private Messaging
+- Red Sender Message Bubble
+- Profile Avatar
+- File Transfer
+- Scrollable Chat
+- TCP Protocol (Socket Programming)
+- GUI Based
+
+## Technologies Used
+- Python
+- Socket Programming (TCP)
+- Tkinter (GUI)
+- Multithreading
+
+## How to Run
+1. Run server.py
+2. Run client.py (open multiple terminals)
+3. Enter username
+4. Start chatting
+
+Created by:
+Mohit Patil
