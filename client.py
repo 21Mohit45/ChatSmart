@@ -36,13 +36,13 @@ def splash():
 
     tk.Label(
         s,
-        text="Created by Mohit Patil"    
+        text="Created by Mohit Patil",    
         font=("Segoe UI", 16),
         bg="#075E54",
         fg="white"
     ).place(relx=0.5, rely=0.95, anchor="center")
 
-    s.after(2000, s.destroy)
+    s.after(4000, s.destroy)
     s.mainloop()
 
 splash()
